@@ -5,9 +5,7 @@ Hand in hand with technology and inspired by the best human talents in the histo
 
 ## Neural Style Transfer in action! 
 
-![Result](Result/Iggy by Renoir.png?raw=true)
-
-
+![Result](https://github.com/nraffa/Malerei/blob/main/Result/Iggy%20by%20Renoir.png?raw=true)
 
 
 Malerei\Result\Iggy by Renoir.png
